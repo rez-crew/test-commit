@@ -1,1 +1,1 @@
-Fist commit by rez-crew
+First commit by rez-crew
